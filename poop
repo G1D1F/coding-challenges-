@@ -1,0 +1,9 @@
+def birthday(year,month,day):
+    total= 
+    
+#-----------------------------------------
+year=int(input('enter the year you were born '))
+month=int(input('enter the month you were born '))
+day=int(input('enter the day you were born '))
+
+
